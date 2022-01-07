@@ -1,0 +1,3 @@
+label: "Author"
+name: "author"
+widget: "string"

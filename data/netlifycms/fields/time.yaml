@@ -1,0 +1,8 @@
+label: "Time"
+name: "time"
+widget: "datetime"
+default: ""
+dateFormat: "YYYY-MM-DD" # e.g. 2021-12-24
+timeFormat: "HH:mm" # e.g. 21:07
+format: "LLL"
+pickerUtc: false

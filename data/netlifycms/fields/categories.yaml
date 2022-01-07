@@ -1,0 +1,7 @@
+label: "Categories"
+name: "categories"
+widget: "list"
+field:
+  label: "Category"
+  name: category
+  widget: "string"

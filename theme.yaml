@@ -1,0 +1,11 @@
+name: platen-netlify
+license: MIT
+licenselink: 'https://github.com/platenio/platen-site/blob/master/LICENSE'
+description: 'Hugo module for adding Netlify functionality to your Platen site
+homepage: 'http://platen.io/'
+tags: []
+features: []
+min_version: 0.1.0
+author:
+  name: Michael T Lombardi
+  homepage: 'https://twitter.com/trebuchetops'

@@ -1,0 +1,5 @@
+label: 'Date'
+name: 'date'
+widget: 'date'
+default: ''
+format: 'YYYY-MM-DD'

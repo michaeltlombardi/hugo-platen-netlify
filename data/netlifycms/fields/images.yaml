@@ -1,0 +1,7 @@
+label: "Featured Image"
+name: "images"
+widget: "image"
+choose_url: true
+media_library:
+  config:
+    multiple: true

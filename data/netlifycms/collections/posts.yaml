@@ -1,0 +1,15 @@
+name: "posts"
+label: "Posts"
+folder: "content/posts"
+create: true
+fields: #--> data/netlifycms/fields/*.yaml
+  - import: field title
+  - import: field author
+  - import: field date
+  - import: field linktitle
+  - import: field summary
+  - import: field categories
+  - import: field tags
+  - import: field weight
+  - import: field images
+  - import: field body

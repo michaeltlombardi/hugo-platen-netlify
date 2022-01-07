@@ -1,0 +1,7 @@
+label: "Tags"
+name: "tags"
+widget: "list"
+field:
+  label: "Tag"
+  name: tag
+  widget: "string"

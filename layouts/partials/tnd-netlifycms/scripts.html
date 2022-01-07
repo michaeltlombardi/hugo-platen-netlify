@@ -1,0 +1,3 @@
+{{ range (resources.Match "netlifycms*.js") }}
+<script>{{ .Content | safeJS }}</script>
+{{ end }}
