@@ -1,7 +1,7 @@
 label: "Featured Image"
 name: "images"
 widget: "image"
-choose_url: true
+required: false
 media_library:
   config:
     multiple: true
