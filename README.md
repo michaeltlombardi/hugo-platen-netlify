@@ -35,6 +35,14 @@ Finally, you'll need to try to serve your site and navigate to the admin page!
 hugo serve
 ```
 
+### Setting up Access in Netlify
+
+This will work just fine for your local workflow, but in order to get things hooked up properly for your live site, there's a little bit of additional setup to do;
+luckily, [Netlify's official documentation](https://docs.netlify.com/visitor-access/oauth-provider-tokens/#using-an-authentication-provider) has us covered.
+
+You will need to add the Github OAuth provider as explained in those documents.
+Then, when you check your live site, you should be able to authenticate!
+
 ## Additional Configuration
 
 This theme provides basics to ensure that anything shipped in the Hugo Platen theme is covered;
